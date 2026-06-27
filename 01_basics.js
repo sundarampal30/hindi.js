@@ -1,0 +1,1 @@
+console.log("dukh tab hota hai jab hame ayeshas hota hai,kijisko hmm itna mahat de rhe ho uski nazro me hmm kuch bhi nhi hai !!!");
